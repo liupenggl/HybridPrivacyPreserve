@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HybridPrivacyPreserve", "HybridPrivacyPreserve\HybridPrivacyPreserve.vcxproj", "{2B5B73ED-38A2-4B8C-AC1E-118B6289603D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5B73ED-38A2-4B8C-AC1E-118B6289603D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2B5B73ED-38A2-4B8C-AC1E-118B6289603D}.Debug|Win32.Build.0 = Debug|Win32
+		{2B5B73ED-38A2-4B8C-AC1E-118B6289603D}.Debug|Win32.Deploy.0 = Debug|Win32
+		{2B5B73ED-38A2-4B8C-AC1E-118B6289603D}.Release|Win32.ActiveCfg = Release|Win32
+		{2B5B73ED-38A2-4B8C-AC1E-118B6289603D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
